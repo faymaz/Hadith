@@ -111,7 +111,6 @@ Contributions are welcome! Especially:
 - 📚 Adding additional hadith sources and references
 - 🔍 Verifying and improving isnad (chain) accuracy
 
-Please see `DEVELOPMENT_LOG.md` for the development history and guidelines.
 
 ## Database Completion Status
 
