@@ -397,17 +397,6 @@
   },
   {
     "number": 37,
-    "arabic": "وَفْدُ اللّٰهِ ثَلاَثَةٌ: اَلْغَازِي وَالْحَاجُّ وَالْمُعْتَمِرُ",
-    "turkish": "Allah’ın misafirleri üçtür: Cihâd eden, hacca ve umreye giden.",
-    "english": "Allah's guests are three: the warrior (in His cause), the pilgrim, and the one performing umrah.",
-    "french": "Les invités d'Allah sont au nombre de trois : le combattant (dans Sa cause), le pèlerin et celui qui accomplit la omra.",
-    "german": "Allahs Gäste sind drei: der Kämpfer (in Seiner Sache), der Pilger und derjenige, der die Umra vollzieht.",
-    "chain": "Reported by Tabarani",
-    "narrator": "Abu Hurayrah (r.a.)",
-    "source": "Taberânî"
-  },
-  {
-    "number": 38,
     "arabic": "اَلْمُسْلِمُ مَنْ سَلِمَ الْمُسْلِمُونَ مِنْ لِسَانِهِ وَيَدِهِ",
     "turkish": "Hakiki Müslüman, diğer Müslümanların elinden ve dilinden emin olduğu kimsedir.",
     "english": "A true Muslim is one from whose tongue and hand other Muslims are safe.",
@@ -418,7 +407,7 @@
     "source": "Buhârî, Müslim"
   },
   {
-    "number": 39,
+    "number": 38,
     "arabic": "لاَ يُؤْمِنُ أَحَدُكُمْ حَتَّى يُحِبَّ لِأَخِيهِ مَا يُحِبُّ لِنَفْسِهِ",
     "turkish": "Sizden biriniz, kendisi için istediğini kardeşi için de istemedikçe tam îmân etmiş olamaz.",
     "english": "None of you truly believes until he loves for his brother what he loves for himself.",
@@ -429,7 +418,7 @@
     "source": "Buhârî, Müslim"
   },
   {
-    "number": 40,
+    "number": 39,
     "arabic": "اَلْمُؤْمِنُ لِلْمُؤْمِنِ كَالْبُنْيَانِ يَشُدُّ بَعْضُهُ بَعْضًا",
     "turkish": "Mü’minler birbirine karşı tıpkı bir binanın taşları gibi birbirini tutup kuvvetlendirir.",
     "english": "The believer to the believer is like a building, each part strengthening the other.",
@@ -440,7 +429,7 @@
     "source": "Buhârî, Müslim"
   },
   {
-    "number": 41,
+    "number": 40,
     "arabic": "مَنْ سَلَكَ طَرِيقًا يَلْتَمِسُ فِيهِ عِلْمًا سَهَّلَ اللَّهُ لَهُ طَرِيقًا إِلَى الْجَنَّةِ",
     "turkish": "Kim ilim aramak için bir yola girerse, Allah onun için cennete giden bir yolu kolaylaştırır.",
     "english": "Whoever travels a path in search of knowledge, Allah will make easy for him a path to Paradise.",
@@ -451,7 +440,7 @@
     "source": "Sunan Abu Dawud, Tirmidhi, Ibn Majah"
   },
   {
-    "number": 42,
+    "number": 41,
     "arabic": "طَلَبُ الْعِلْمِ فَرِيضَةٌ عَلَى كُلِّ مُسْلِمٍ",
     "turkish": "İlim öğrenmek her müslümana farzdır.",
     "english": "Seeking knowledge is obligatory upon every Muslim.",
@@ -462,7 +451,7 @@
     "source": "Sunan Ibn Majah"
   },
   {
-    "number": 43,
+    "number": 42,
     "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
     "turkish": "Sizin en hayırlınız Kuran'ı öğrenen ve öğretendir.",
     "english": "The best among you are those who learn the Quran and teach it.",
@@ -473,7 +462,7 @@
     "source": "Sahih Bukhari"
   },
   {
-    "number": 44,
+    "number": 43,
     "arabic": "مَنْ كَانَ يُؤْمِنُ بِاللَّهِ وَالْيَوْمِ الْآخِرِ فَلْيَقُلْ خَيْرًا أَوْ لِيَصْمُتْ",
     "turkish": "Allah'a ve ahiret gününe iman eden ya hayır söylesin ya da sussun.",
     "english": "Whoever believes in Allah and the Last Day should speak good or remain silent.",
@@ -484,7 +473,7 @@
     "source": "Sahih Bukhari, Sahih Muslim"
   },
   {
-    "number": 45,
+    "number": 44,
     "arabic": "الْجَنَّةُ تَحْتَ أَقْدَامِ الْأُمَّهَاتِ",
     "turkish": "Cennet annelerin ayakları altındadır.",
     "english": "Paradise lies under the feet of mothers.",
@@ -495,7 +484,7 @@
     "source": "Sunan an-Nasa'i"
   },
   {
-    "number": 46,
+    "number": 45,
     "arabic": "الدِّينُ النَّصِيحَةُ",
     "turkish": "Din nasihattir (öğüttür).",
     "english": "Religion is sincere advice (nasihah).",
@@ -506,7 +495,7 @@
     "source": "Sahih Muslim"
   },
   {
-    "number": 47,
+    "number": 46,
     "arabic": "الْحَلَالُ بَيِّنٌ وَالْحَرَامُ بَيِّنٌ",
     "turkish": "Helal açıktır, haram da açıktır.",
     "english": "The lawful is clear and the unlawful is clear.",
@@ -517,7 +506,7 @@
     "source": "Sahih Bukhari, Sahih Muslim"
   },
   {
-    "number": 48,
+    "number": 47,
     "arabic": "إِنَّ اللَّهَ طَيِّبٌ لَا يَقْبَلُ إِلَّا طَيِّبًا",
     "turkish": "Şüphesiz Allah temizdir, sadece temiz olanı kabul eder.",
     "english": "Verily, Allah is pure and accepts only that which is pure.",
@@ -528,7 +517,7 @@
     "source": "Sahih Muslim, Tirmidhi"
   },
   {
-    "number": 49,
+    "number": 48,
     "arabic": "اتَّقِ اللَّهَ حَيْثُمَا كُنْتَ",
     "turkish": "Nerede olursan ol Allah'tan kork.",
     "english": "Fear Allah wherever you are.",
@@ -539,7 +528,7 @@
     "source": "Tirmidhi, Ahmad"
   },
   {
-    "number": 50,
+    "number": 49,
     "arabic": "لَا ضَرَرَ وَلَا ضِرَارَ",
     "turkish": "Zarar vermek ve zarara karşılık zarar vermek yoktur.",
     "english": "There should be neither harming nor reciprocating harm.",

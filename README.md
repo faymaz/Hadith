@@ -150,6 +150,7 @@ This project is open source. Please check the license file for details.
 ## Credits
 
 - Hadith sources: Various authentic Islamic sources
+[Hadith](https://dinhizmetleri.diyanet.gov.tr/ResimKitapligi/Ha%E2%80%8Bdis%20Metinleri%20(100%20Hadis-i%20%C5%9Eerif).pdf)
 - Extension developer: [@faymaz](https://github.com/faymaz)
 - GNOME Shell Extension framework
 
