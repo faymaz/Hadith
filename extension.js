@@ -42,7 +42,7 @@ class HadithIndicator extends PanelMenu.Button {
 
        
         const icon = new St.Icon({
-            gicon: Gio.icon_new_for_string(extension.path + '/icons/icon.svg'),
+            gicon: Gio.icon_new_for_string(extension.path + '/icons/icon.jpg'),
             style_class: 'system-status-icon',
         });
         this.add_child(icon);
