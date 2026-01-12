@@ -338,9 +338,6 @@ export default class HadithExtension extends Extension {
                 [this._hadithLabel._dragStartX, this._hadithLabel._dragStartY] = event.get_coords();
                 [this._hadithLabel._widgetStartX, this._hadithLabel._widgetStartY] = actor.get_position();
 
-               
-                global.display.set_cursor(Meta.Cursor.MOVE_OR_RESIZE_WINDOW);
-
                 return Clutter.EVENT_STOP;
             }
             return Clutter.EVENT_PROPAGATE;
@@ -368,10 +365,6 @@ export default class HadithExtension extends Extension {
             if (event.get_button() === 1 && this._hadithLabel._dragging) {
                 this._hadithLabel._dragging = false;
 
-               
-                global.display.set_cursor(Meta.Cursor.DEFAULT);
-
-               
                 const [newX, newY] = actor.get_position();
                 this._settings.set_int('position-x', Math.round(newX));
                 this._settings.set_int('position-y', Math.round(newY));
